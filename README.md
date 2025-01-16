@@ -1,9 +1,10 @@
+
 # Bonjour ! 👋 Je suis Thomas Bouffay
 
 **🚀 Data Analyst Junior | Passionné par l’analyse des données, l’automatisation, et les projets collaboratifs.**
 
 ![GitHub followers](https://img.shields.io/github/followers/thomasbouffay?style=social)  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5N7hsMX8Y3Bvnx_oi8NUvg?style=social)  
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo6iDsSKGvNQyhhR50wLJug?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/thomasbouffay?style=social)
 
 ---
@@ -24,16 +25,16 @@
 ---
 
 ## 🛠️ Compétences techniques
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-Expert-yellow?logo=powerbi&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-Expert-brightgreen?logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermédiaire-blue?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Intermédiaire-orange?logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-Débutant-yellow?logo=powerbi&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-Intermédiaire-brightgreen?logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## 🔗 Retrouvez-moi
 - 🎥 **YouTube** : [No/Filter](https://www.youtube.com/@NofilterFR)  
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5N7hsMX8Y3Bvnx_oi8NUvg?style=social)  
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCo6iDsSKGvNQyhhR50wLJug?style=social)  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomasbouffay)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
