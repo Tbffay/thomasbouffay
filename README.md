@@ -24,10 +24,21 @@
 ---
 
 ## 🛠️ Compétences techniques
+
+### 🔍 **Analyse de données**
 ![Python](https://img.shields.io/badge/Python-Intermédiaire-blue?logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-Intermédiaire-orange?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-Intermédiaire-yellow?logo=powerbi&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-Intermédiaire-brightgreen?logo=microsoft-excel&logoColor=white)
+
+### 📊 **Visualisation et Reporting**
+![Power BI](https://img.shields.io/badge/Power_BI-Intermédiaire-yellow?logo=powerbi&logoColor=white)  
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Intermédiaire-blueviolet?logo=google&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Intermédiaire-green?logo=google-sheets&logoColor=white)
+
+### ⚙️ **Automatisation et Outils**
+![Git](https://img.shields.io/badge/Git-Intermédiaire-orange?logo=git&logoColor=white)  
+![ETL](https://img.shields.io/badge/ETL-Intermédiaire-lightgrey?logo=data&logoColor=white)  
+![Scraping](https://img.shields.io/badge/Scraping-Intermédiaire-red?logo=web&logoColor=white)
 
 ---
 
@@ -49,6 +60,9 @@
 4. Explorer l’apprentissage automatique et l’analyse prédictive.
 
 ---
+
+Merci d’avoir visité mon profil ! Restez connecté pour découvrir mes projets et mon évolution 🚀
+
 
 Merci d’avoir visité mon profil ! Restez connecté pour découvrir mes projets et mon évolution 🚀
 
