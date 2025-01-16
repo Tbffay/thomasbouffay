@@ -3,7 +3,7 @@
 **🚀 Data Analyst Junior | Passionné par l’analyse des données, l’automatisation, et les projets collaboratifs.**
 
 ![GitHub followers](https://img.shields.io/github/followers/Tbffay?style=social)  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@NofilterFR?style=social)  
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXWitUuzMQvDYJWQd1uoiuQ?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/Tbffay?style=social)
 
 ---
@@ -33,7 +33,7 @@
 
 ## 🔗 Retrouvez-moi
 - 🎥 **YouTube** : [No/Filter](https://www.youtube.com/@NofilterFR)  
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/@NofilterFR?style=social)  
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXWitUuzMQvDYJWQd1uoiuQ?style=social)  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomasbouffay)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
@@ -51,3 +51,4 @@
 ---
 
 Merci d’avoir visité mon profil ! Restez connecté pour découvrir mes projets et mon évolution 🚀
+
