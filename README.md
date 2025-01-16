@@ -46,7 +46,7 @@
 - 🎥 **YouTube** : [No/Filter](https://www.youtube.com/@NofilterFR)  
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXWitUuzMQvDYJWQd1uoiuQ?style=social)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomasbouffay)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-7921b3216)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 
 - 📧 [Email](mailto:thomasbouffay1@gmail.com)
@@ -60,9 +60,6 @@
 4. Explorer l’apprentissage automatique et l’analyse prédictive.
 
 ---
-
-Merci d’avoir visité mon profil ! Restez connecté pour découvrir mes projets et mon évolution 🚀
-
 
 Merci d’avoir visité mon profil ! Restez connecté pour découvrir mes projets et mon évolution 🚀
 
