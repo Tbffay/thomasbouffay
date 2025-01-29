@@ -3,7 +3,6 @@
 **🚀 Data Analyst Junior | Passionné par l’analyse des données, l’automatisation, et les projets collaboratifs.**
 
 ![GitHub followers](https://img.shields.io/github/followers/Tbffay?style=social)  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXWitUuzMQvDYJWQd1uoiuQ?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/Tbffay?style=social)
 
 ---
@@ -13,7 +12,6 @@
 - 🛠️ **Compétences principales** : Python, SQL, Excel, Power BI.
 - 🌱 **En apprentissage** : Développement de projets concrets en data analysis.
 - 💡 **Objectif** : Simplifier les décisions grâce à la data.
-- 🎥 **Chaîne YouTube** : [No/Filter](https://www.youtube.com/@NofilterFR) – où je partage mon parcours et mes apprentissages dans la data.
 
 ---
 
