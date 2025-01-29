@@ -41,8 +41,6 @@
 ---
 
 ## 🔗 Retrouvez-moi
-- 🎥 **YouTube** : [No/Filter](https://www.youtube.com/@NofilterFR)  
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXWitUuzMQvDYJWQd1uoiuQ?style=social)  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomas-7921b3216)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
@@ -54,8 +52,7 @@
 ## 📝 Objectifs pour 2025
 1. Publier mes premiers projets sur GitHub.
 2. Contribuer à des projets open source.
-3. Partager des tutoriels sur ma chaîne YouTube.
-4. Explorer l’apprentissage automatique et l’analyse prédictive.
+3. Explorer l’apprentissage automatique et l’analyse prédictive.
 
 ---
 
